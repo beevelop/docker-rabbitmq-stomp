@@ -19,3 +19,6 @@ http://127.0.0.1:15674/stomp
 ```
 
 Please refer to the [RabbitMQ Web-Stomp Plugin documentation](https://www.rabbitmq.com/web-stomp.html#usage) for detailed usage instructions.
+
+## [STOMP-UI](https://beevelop.github.io/stomp-ui/)
+Use the [STOMP-UI](https://beevelop.github.io/stomp-ui/) to play around with your RabbitMQ installation.
