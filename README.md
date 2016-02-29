@@ -3,7 +3,7 @@
 [![ImageLayer](https://badge.imagelayers.io/beevelop/rabbitmq-stomp:latest.svg)](https://imagelayers.io/?images=beevelop/rabbitmq-stomp:latest)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
-# RabbitMQ with STOMP for Docker :whale:
+# RabbitMQ with support for [STOMP](https://stomp.github.io/) and [SockJS](https://github.com/sockjs) for Docker :whale:
 
 ```
 docker run -d --name rabbit-stomp -p 15674:15674 beevelop/rabbitmq-stomp
