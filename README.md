@@ -1,6 +1,9 @@
-[![Travis](https://img.shields.io/travis/beevelop/docker-rabbitmq-stomp.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-rabbitmq-stomp)
-[![Docker Pulls](https://img.shields.io/docker/pulls/beevelop/rabbitmq-stomp.svg?style=flat-square)](https://links.beevelop.com/d-rabbitmq-stomp)
-[![ImageLayer](https://badge.imagelayers.io/beevelop/rabbitmq-stomp:latest.svg)](https://imagelayers.io/?images=beevelop/rabbitmq-stomp:latest)
+[![Travis](https://shields.beevelop.com/travis/beevelop/docker-rabbitmq-stomp.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-rabbitmq-stomp)
+[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/rabbitmq-stomp.svg?style=flat-square)](https://links.beevelop.com/d-rabbitmq-stomp)
+[![Layers](https://shields.beevelop.com/docker/image/layers/beevelop/rabbitmq-stomp/latest.svg?style=flat-square)](https://links.beevelop.com/d-rabbitmq-stomp)
+[![Size](https://shields.beevelop.com/docker/image/size/beevelop/rabbitmq-stomp/latest.svg?style=flat-square)](https://links.beevelop.com/d-rabbitmq-stomp)
+[![Release](https://shields.beevelop.com/github/release/beevelop/docker-rabbitmq-stomp.svg?style=flat-square)](https://github.com/beevelop/docker-rabbitmq-stomp/releases)
+![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
 # RabbitMQ with support for [STOMP](https://stomp.github.io/) and [SockJS](https://github.com/sockjs)
